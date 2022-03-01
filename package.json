@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm start",
+    "start": "echo bash && node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,9 @@
   },
   "homepage": "https://github.com/kheeb/teamManager#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^14.1.0",
     "inquirer": "^8.2.0",
-    "mysql2": "^2.3.3"
+    "mysql2": "^2.2.5"
   }
 }
