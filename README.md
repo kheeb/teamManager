@@ -22,8 +22,7 @@
   * [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Demo
-
-  Please follow this link to view demo video: ()
+  Please follow this link to view demo video: (https://drive.google.com/file/d/1izol5RAxsOxHiv_Utpizj8pudioDXVxw/view)
 
 
 ## Tests
