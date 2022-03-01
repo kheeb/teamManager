@@ -14,7 +14,7 @@
   Clone to repository to your local machine, and then create a .env file with your MySQL login information. Open the integrated terminal in the server.js file and run the command `npm i` to install dependencies. Run `mysql u root -p` and log in with your password to the shell in order to run the command `source schema.sql && source seeds.sql`. Run `quit` followed by `npm start` to view the inquirer prompts. Use arrow keys and the enter button to navigate through options, and enter answers directly within the terminal.
 
 ## Usage
-  
+  ![img](./demoImg.png)
   
 ## License
   MIT is the chosen license for this project.
